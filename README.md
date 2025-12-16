@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/manojtammineedi" target="blank"><img src="https://img.shields.io/twitter/follow/manojtammineedi?logo=twitter&style=for-the-badge" alt="manojtammineedi" /></a> </p>
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **AI agents, RAG, and DevOps**
 
-- 👯 I’m looking to collaborate on **Mobile Applications**
+- 👯 I’m looking to collaborate on **AI-driven applications, automation tools, and full-stack software projects**
 
 - 👨‍💻 All of my projects are available at [https://manojtammineedi.netlify.app](https://manojtammineedi.netlify.app)
 
-- 💬 Ask me about **Flutter, MERN**
+- 💬 Ask me about **AI Agents, RAG pipelines, FastAPI, LangChain, Flutter, Web Application**
 
 - 📫 How to reach me **manojtammineedi780@gmail.com**
 
